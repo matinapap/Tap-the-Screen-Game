@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+packages/
+TestResults/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Local high-score database
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
